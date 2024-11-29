@@ -12,7 +12,7 @@ form.addEventListener('submit',function(e)
     // window.location.href="index.html";
     // window.location.assign("index.html");
     // window.location.replace("index.html");
-    window.location.href = "form.html";
+    window.location.href = "index.html";
     email.value="";
   }
 })
